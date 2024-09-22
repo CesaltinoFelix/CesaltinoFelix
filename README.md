@@ -8,4 +8,4 @@
 CesaltinoFelix/CesaltinoFelix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/cefelix"><img src="https://api.daily.dev/devcards/v2/HvIBPQiDtYZy5cVWskuzt.png?r=dnd" width="356" alt="Cesaltino Félix's Dev Card"/></a>
+<a href="https://github.com/CesaltinoFelix/"><img src="https://api.daily.dev/devcards/v2/HvIBPQiDtYZy5cVWskuzt.png?r=dnd" width="356" alt="Cesaltino Félix's Dev Card"/></a>
