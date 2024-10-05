@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Cesaltino Félix!
 
 🔍 **About Me**  
-I am a student at "42 Luanda," where I am learning about **Cyber Security**, UI, and UX. I am passionate about technology and always looking for new ways to learn and grow in the field.
+I am a dedicated software developer currently honing my skills at **42 Luanda**. My current focus is on **Cyber Security**, **UI**, and **UX design**, where I strive to create secure, user-friendly applications. With a deep passion for technology, I am always eager to explore new challenges and expand my knowledge, continuously seeking opportunities to innovate and contribute to impactful projects.
 
 ---
 
