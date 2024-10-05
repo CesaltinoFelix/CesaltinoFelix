@@ -1,7 +1,3 @@
-Claro! Aqui está a tradução do seu README para o inglês:
-
----
-
 # 👋 Hello, I'm Cesaltino Félix!
 
 🔍 **About Me**  
