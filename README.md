@@ -8,4 +8,5 @@
 CesaltinoFelix/CesaltinoFelix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,flutter,js,nodejs,html,css,figma,linux,bash)](https://skillicons.dev)
 <a href="https://github.com/CesaltinoFelix/"><img src="https://api.daily.dev/devcards/v2/HvIBPQiDtYZy5cVWskuzt.png?r=dnd" width="356" alt="Cesaltino Félix's Dev Card"/></a>
