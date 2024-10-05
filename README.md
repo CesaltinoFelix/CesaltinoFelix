@@ -28,7 +28,6 @@ I am interested in technologies such as:
 - JavaScript
 - Node.js
 - Angular
-- PHP
 
 ---
 
