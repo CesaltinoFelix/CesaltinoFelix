@@ -24,15 +24,17 @@ I am open to collaborating on new projects! If you have an idea or need assistan
 
 ### 👀 **Interests**
 I am interested in technologies such as:
-- Flutter
+- Reactjs
+- Next.js
 - JavaScript
 - Node.js
+- Flutter
 - Angular
 
 ---
 
 ### 🛠️ **My Skills**
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,flutter,angular,js,nodejs,html,css,figma,linux,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,c,cpp,flutter,angular,js,nodejs,html,css,figma,linux,bash)](https://skillicons.dev)
 
 ---
 
