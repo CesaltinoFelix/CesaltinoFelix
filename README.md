@@ -24,7 +24,7 @@ I am open to collaborating on new projects! If you have an idea or need assistan
 
 ### 👀 **Interests**
 I am interested in technologies such as:
-- Reactjs
+- React
 - Next.js
 - JavaScript
 - Node.js
